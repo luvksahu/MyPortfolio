@@ -42,7 +42,7 @@ export const ProjectList = [
     demo_url: "https://github.com/luvksahu/The-CalculatorApp",
   },
   {
-    img: "",
+    img: "https://github.com/luvksahu/MyPortfolio/blob/master/src/Assets/LibraryManagement.jpg?raw=true",
     title: "Library Management",
     description:"Created a basic news app with a navigation drawer and a web view",
     tech_stack: "Java, MySQL",
