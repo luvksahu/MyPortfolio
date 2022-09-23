@@ -2,7 +2,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "",
+    img: "https://github.com/luvksahu/MyPortfolio/blob/master/src/Assets/Portfolio.jpg?raw=true",
     title: "Portfolio",
     description: "Of course, I created my own personal portfolio website.",
     tech_stack: "Reactjs, Css",
