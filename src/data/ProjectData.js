@@ -10,7 +10,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "",
+    img: "https://github.com/luvksahu/MyPortfolio/blob/master/src/Assets/Dictionary.jpg?raw=true",
     title: "Dictionary App",
     description:"A dictionary application that assists you with unfamiliar words",
     tech_stack: "XML, Java, Python, APIs",
@@ -18,7 +18,7 @@ export const ProjectList = [
     demo_url: "https://github.com/luvksahu/Dictionary-App",
   },
   {
-    img: "",
+    img: "https://github.com/luvksahu/MyPortfolio/blob/master/src/Assets/ToDo.jpg?raw=true",
     title: "To Do List App",
     description: "This is an Android app that allows you to create a to-do list.",
     tech_stack: "XML, Java, Room Database, MVVM Architecture",
@@ -26,7 +26,7 @@ export const ProjectList = [
     demo_url: "https://github.com/luvksahu/To-Do-List-App",
   },
   {
-    img: "",
+    img: "https://github.com/luvksahu/MyPortfolio/blob/master/src/Assets/News.jpg?raw=true",
     title: "News App",
     description:"Created a basic news app with a navigation drawer and a web view",
     tech_stack: "XML, Java",
@@ -34,7 +34,7 @@ export const ProjectList = [
     demo_url: "https://github.com/luvksahu/News-App",
   },
   {
-    img: "",
+    img: "https://github.com/luvksahu/MyPortfolio/blob/master/src/Assets/Calci.jpg?raw=true",
     title: "Calculator",
     description:"A simple calculator",
     tech_stack: "XML, Java, JavaScript",
