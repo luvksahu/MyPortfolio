@@ -6,7 +6,7 @@ export const ProjectList = [
     title: "Portfolio",
     description: "Of course, I created my own personal portfolio website.",
     tech_stack: "Reactjs, Css",
-    github_url: "",
+    github_url: "https://github.com/luvksahu/MyPortfolio",
     demo_url: "",
   },
   {
@@ -43,14 +43,14 @@ export const ProjectList = [
   },
   {
     img: "",
-    title: "News App",
+    title: "Library Management",
     description:"Created a basic news app with a navigation drawer and a web view",
-    tech_stack: "XML, Java",
-    github_url: "https://github.com/luvksahu/News-App",
-    demo_url: "https://github.com/luvksahu/News-App",
+    tech_stack: "Java, MySQL",
+    github_url: "",
+    demo_url: "",
   },
   {
-    img: "",
+    img: "https://github.com/luvksahu/MyPortfolio/blob/master/src/Assets/YouTube.jpg?raw=true",
     title: "Youtube Clone",
     description:"YouTube clone website built using HTML",
     tech_stack: "HTML",
