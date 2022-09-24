@@ -3,7 +3,7 @@ Live Preview - [Click Here](https://luvksahu.vercel.app/)
 
 <br/>
 <div align="center">
-  <img alt="Demo" src="" />
+  <img alt="Demo" src="https://github.com/luvksahu/MyPortfolio/blob/master/src/Assets/mockup.jpg?raw=true" />
 </div>
 <br/>
 <br/>
