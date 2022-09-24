@@ -7,7 +7,7 @@ export const ProjectList = [
     description: "Of course, I created my own personal portfolio website.",
     tech_stack: "Reactjs, Css",
     github_url: "https://github.com/luvksahu/MyPortfolio",
-    demo_url: "",
+    demo_url: "https://luvksahu.vercel.app/",
   },
   {
     img: "https://github.com/luvksahu/MyPortfolio/blob/master/src/Assets/Dictionary.jpg?raw=true",
