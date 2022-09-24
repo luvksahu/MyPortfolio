@@ -46,8 +46,8 @@ export const ProjectList = [
     title: "Library Management",
     description:"Created a basic news app with a navigation drawer and a web view",
     tech_stack: "Java, MySQL",
-    github_url: "",
-    demo_url: "",
+    github_url: "https://github.com/luvksahu/Library-Management",
+    demo_url: "https://github.com/luvksahu/Library-Management",
   },
   {
     img: "https://github.com/luvksahu/MyPortfolio/blob/master/src/Assets/YouTube.jpg?raw=true",
